@@ -10,8 +10,6 @@ def shipping_manifest
                   "oil paintings" => 3
                  }
   return shipping_manifest 
-
-
 end
 
 def retrieval
@@ -21,7 +19,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 
-  shipping_manifest["oild paintings"]
+  shipping_manifest["oil paintings"]
 
 end
 
